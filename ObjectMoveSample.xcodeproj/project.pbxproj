@@ -12,6 +12,8 @@
 		B72062B8215B65E500A336E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B72062B6215B65E500A336E2 /* Main.storyboard */; };
 		B72062BA215B65E700A336E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B72062B9215B65E700A336E2 /* Assets.xcassets */; };
 		B72062BD215B65E700A336E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B72062BB215B65E700A336E2 /* LaunchScreen.storyboard */; };
+		B72062C5215B67D900A336E2 /* animal01.png in Resources */ = {isa = PBXBuildFile; fileRef = B72062C4215B67D900A336E2 /* animal01.png */; };
+		B72062C7215BC08400A336E2 /* togamin.JPG in Resources */ = {isa = PBXBuildFile; fileRef = B72062C6215BC08300A336E2 /* togamin.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		B72062B9215B65E700A336E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B72062BC215B65E700A336E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B72062BE215B65E700A336E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B72062C4215B67D900A336E2 /* animal01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = animal01.png; sourceTree = "<group>"; };
+		B72062C6215BC08300A336E2 /* togamin.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = togamin.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				B72062B9215B65E700A336E2 /* Assets.xcassets */,
 				B72062BB215B65E700A336E2 /* LaunchScreen.storyboard */,
 				B72062BE215B65E700A336E2 /* Info.plist */,
+				B72062C4215B67D900A336E2 /* animal01.png */,
+				B72062C6215BC08300A336E2 /* togamin.JPG */,
 			);
 			path = ObjectMoveSample;
 			sourceTree = "<group>";
@@ -122,8 +128,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B72062C7215BC08400A336E2 /* togamin.JPG in Resources */,
 				B72062BD215B65E700A336E2 /* LaunchScreen.storyboard in Resources */,
 				B72062BA215B65E700A336E2 /* Assets.xcassets in Resources */,
+				B72062C5215B67D900A336E2 /* animal01.png in Resources */,
 				B72062B8215B65E500A336E2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
