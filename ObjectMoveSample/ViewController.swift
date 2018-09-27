@@ -56,6 +56,7 @@ class ViewController: UIViewController {
         print("画像表示")
     }
     
+    
     class NewUIImageView:UIImageView{
         var title:String = ""
         var detail:String = ""
